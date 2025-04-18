@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Terrain en ville",
+    "location": "conakry",
+    "price": "$12, 000",
+    "mainimage": "images/Land2.jpg",
+    "images": [
+  "images/land1-1.jpg",
+  "images/land1-2.jpg",
+  "images/Land1.jpg"
+],
+"features": ["Prés de l'eau", "sol fertile", "bon accés routier"],
+
+    "description": "Le meilleur du momment que vous pouvez obtenir.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!m12!1m3!1d15838.4930829496!2d-13.70718975!3d9.5083036!2m3!1fo!2fo!3fo!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc3dc9e5a131%3A0x13c0361efc937289!2zKaloum%2C%20Conakry%2C%20Guinea!5e0!3m2!1sen!sh!4v1712599421745!5m2!1sen!sgh",
+    "contact": {"name": "Abdul",
+    "phone": "Call: +224 625021857",
+    "email": "Abdul@gmail.com"
+  }
+  },
+  {
+    "id": 2,
+    "title": "Fertile Farm Land",
+    "location": "T8",
+    "price": "$5, 000",
+    "mainimage": "images/Land1.jpg",
+    "images": [
+  "images/land2.jpg",
+  "images/land2-1.jpg",
+  "images/LandC.jpg"
+],
+"features": ["Prés de l'eau", "sol fertile", "bon accés routier"],
+    
+"contact": {"name": "Abdul",
+"phone": "Call: +224 620021857",
+"email": "Abdul@gmail.com"
+},
+    "description": "The Best land of the momment you can get",
+       "map": "https://www.google.com/maps/embed?pb=!1m18!m12!1m3!1d15838.4930829496!2d-13.70718975!3d9.5083036!2m3!1fo!2fo!3fo!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc3dc9e5a131%3A0x13c0361efc937289!2zKaloum%2C%20Conakry%2C%20Guinea!5e0!3m2!1sen!sh!4v1712599421745!5m2!1sen!sgh"
+
+  },
+  {
+    "id": 3,
+    "title": "Fertile Farm Land",
+    "location": "T5",
+    "price": "$5, 000",
+    "mainimage": "images/land3.jpg",
+    "images": [
+  "images/land4-1.jpg",
+  "images/land6-1.jpg",
+  "images/Land6-3.jpg"
+],
+"features": ["Near water", "Fertile soil", "Good road access"],
+    
+"contact": {"name": "Abdul",
+"phone": "Call: +224 627011857",
+"email": "Abdul@gmail.com"
+},
+    "description": "The Best land of the momment you can get",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!m12!1m3!1d15838.4930829496!2d-13.70718975!3d9.5083036!2m3!1fo!2fo!3fo!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc3dc9e5a131%3A0x13c0361efc937289!2zKaloum%2C%20Conakry%2C%20Guinea!5e0!3m2!1sen!sh!4v1712599421745!5m2!1sen!sgh"
+
+  },
+  {
+    "id": 4,
+    "title": "Fertile Farm Land",
+    "location": "Kepe",
+    "price": "$5, 000",
+    "mainimage": "images/land6.jpeg",
+    "images": [
+  "images/land6-1.jpg",
+  "images/land1-2.jpg",
+  "images/LandC.jpg"
+],
+"features": ["Near water", "Fertile soil", "Good road access"],
+
+"contact": {"name": "Facinet",
+"phone": "Call: +224 627021850",
+"email": "Abdul@gmail.com"
+},
+    "description": "The Best land of the momment you can get",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!m12!1m3!1d15838.4930829496!2d-13.70718975!3d9.5083036!2m3!1fo!2fo!3fo!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc3dc9e5a131%3A0x13c0361efc937289!2zKaloum%2C%20Conakry%2C%20Guinea!5e0!3m2!1sen!sh!4v1712599421745!5m2!1sen!sgh"
+
+  },
+  {
+    "id": 5,
+    "title": "Fertile Farm Land",
+    "location": "Nzerekore",
+    "price": "$5, 000",
+    "mainimage": "images/landT.jpg",
+    "images": [
+  "images/land1-1.jpg",
+  "images/land6-2.jpg",
+  "images/land6-1.jpg"
+  
+],
+"features": ["cool", "Fertile soil", "Good road access"],
+   
+"contact": {"name": "Abdul",
+"phone": "Call: +224 627021957",
+"email": "Abdul@gmail.com"
+},
+    "description": "The Best land of the momment you can get",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!m12!1m3!1d15838.4930829496!2d-13.70718975!3d9.5083036!2m3!1fo!2fo!3fo!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc3dc9e5a131%3A0x13c0361efc937289!2zKaloum%2C%20Conakry%2C%20Guinea!5e0!3m2!1sen!sh!4v1712599421745!5m2!1sen!sgh"
+ 
+  },
+  {
+    "id": 6,
+    "title": "the best",
+    "location": "mamou",
+    "price": "$5, 000",
+    "mainimage": "images/land4-1.jpg",
+    "images": [
+  "images/land1-1.jpg",
+  "images/land6-2.jpg",
+  "images/land6-1.jpg"
+  
+],
+"features": ["cool", "Fertile soil", "Good road access"],
+   
+"contact": {"name": "Abdul",
+"phone": "Call: +224 627021957",
+"email": "Abdul@gmail.com"
+},
+    "description": "The Best land of the momment you can get",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!m12!1m3!1d15838.4930829496!2d-13.70718975!3d9.5083036!2m3!1fo!2fo!3fo!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc3dc9e5a131%3A0x13c0361efc937289!2zKaloum%2C%20Conakry%2C%20Guinea!5e0!3m2!1sen!sh!4v1712599421745!5m2!1sen!sgh"
+ 
+  }
+]
+
