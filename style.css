@@ -43,7 +43,7 @@ nav a {
   padding: 80px 20px;
   color: white;
   text-align: center;
-  background: url('images/landC.jpeg') no-repeat center center/cover;
+  background: url('images/land6.jpeg') no-repeat center center/cover;
 }
 
 .hero h1 {
@@ -238,14 +238,14 @@ button {
   padding: 100px 20px;
   text-align: center;
   color: white;
-  background: url('images/landC.jpeg') no-repeat center center/cover;
+  background: url('images/land6.jpeg') no-repeat center center/cover;
 }
 
 .contact-hero h1 {
   font-size: 3rem;
 }
 .contact-hero a{
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .contact-hero a:hover{
