@@ -26,9 +26,9 @@
     "price": "$5, 000",
     "mainimage": "images/Land1.jpg",
     "images": [
-  "images/land2.jpg",
+  "images/Land2.jpg",
   "images/land2-1.jpg",
-  "images/LandC.jpg"
+  "images/landC.jpg"
 ],
 "features": ["Prés de l'eau", "sol fertile", "bon accés routier"],
     
@@ -45,11 +45,11 @@
     "title": "Fertile Farm Land",
     "location": "T5",
     "price": "$5, 000",
-    "mainimage": "images/land3.jpg",
+    "mainimage": "images/Land3.jpg",
     "images": [
   "images/land4-1.jpg",
   "images/land6-1.jpg",
-  "images/Land6-3.jpg"
+  "images/land6-3.jpg"
 ],
 "features": ["Near water", "Fertile soil", "Good road access"],
     
@@ -70,7 +70,7 @@
     "images": [
   "images/land6-1.jpg",
   "images/land1-2.jpg",
-  "images/LandC.jpg"
+  "images/landC.jpg"
 ],
 "features": ["Near water", "Fertile soil", "Good road access"],
 
